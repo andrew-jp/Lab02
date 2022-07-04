@@ -1,0 +1,15 @@
+/Users/andrewpritchett/Projects/Lab02/Lab02/bin/Debug/net6.0/Lab02
+/Users/andrewpritchett/Projects/Lab02/Lab02/bin/Debug/net6.0/Lab02.deps.json
+/Users/andrewpritchett/Projects/Lab02/Lab02/bin/Debug/net6.0/Lab02.runtimeconfig.json
+/Users/andrewpritchett/Projects/Lab02/Lab02/bin/Debug/net6.0/Lab02.dll
+/Users/andrewpritchett/Projects/Lab02/Lab02/bin/Debug/net6.0/Lab02.pdb
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.csproj.AssemblyReference.cache
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.AssemblyInfoInputs.cache
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.AssemblyInfo.cs
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.csproj.CoreCompileInputs.cache
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.dll
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/refint/Lab02.dll
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.pdb
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/Lab02.genruntimeconfig.cache
+/Users/andrewpritchett/Projects/Lab02/Lab02/obj/Debug/net6.0/ref/Lab02.dll
