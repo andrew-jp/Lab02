@@ -62,10 +62,10 @@ namespace Lab02
             string[] states = { "new_account", "active", "under_audit", "frozen", "closed", "bad_state" };
 
             // saved some code by iterating through each state
-            foreach (string st in states)
+            foreach (string state in states)
             {
-                Console.WriteLine($"Test state \"{st}\": "); // state to test
-                Console.WriteLine(account.SetState(st)); // set state, print true or false
+                Console.WriteLine($"Test state \"{state}\": "); // state to test
+                Console.WriteLine(account.SetState(state)); // set state, print true or false
                 Console.WriteLine("Account State = " + account.GetState()); // output current state
             }
 
